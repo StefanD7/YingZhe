@@ -61,7 +61,7 @@ const LinesPage = () => {
         transparent: true,
       });
 
-      const geometry = new TextGeometry('Stefan.Denkovic', {
+      const geometry = new TextGeometry('YingZhe Piao', {
         font: font,
         size: 40,
         height: 7,
