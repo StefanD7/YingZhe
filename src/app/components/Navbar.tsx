@@ -63,7 +63,7 @@ export default function Navbar() {
         <h1 className="mt-3 text-lg tracking-tight text-slate-200 sm:text-3xl font-serif font-black">
         Full Stack Developer<br></br></h1>
           <h4 className="mt-3 font-medium tracking-tight text-slate-200 ">
-         (AI/ML, Next.js, Node.js, Threejs, React Native)
+         (AI/ML, Mern stack, Mobile app development)
         </h4>
         <p className="mt-4 max-w-xs leading-relaxed text-justify">
           I build accessible, inclusive products and digital experiences for the web.
@@ -105,16 +105,16 @@ export default function Navbar() {
       </ul>
 
       <div className="ml-2 mt-8 flex items-center">
-        <Link href="https://www.linkedin.com/in/matthew-jack-a0b679331" className="mr-10 text-2xl">
+        <Link href="www.linkedin.com/in/yingzhe-piao-a0b679331" className="mr-10 text-2xl">
           <CiLinkedin />
         </Link>
-        <Link href="mailto:k36837971@gmail.com?subject=Subject&body=Body%20goes%here" className="mr-10 text-2xl">
+        <Link href="mailto:matthewjack388@gmail.com?subject=Subject&body=Body%20goes%here" className="mr-10 text-2xl">
           <MdOutlineMarkEmailRead />
         </Link>
-        <Link href="tel:+1 7853374228" className="mr-10 text-2xl">
+        <Link href="+380 96 826 5064(Whatsapp)" className="mr-10 text-2xl">
           <MdContactPhone />
         </Link>
-        <Link href="https://github.com/MatthewPJ000" className="mr-10 text-2xl">
+        <Link href="https://github.com/WinSelf7" className="mr-10 text-2xl">
           <FaGithub />
         </Link>
       </div>
