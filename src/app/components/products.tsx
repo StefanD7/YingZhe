@@ -33,14 +33,14 @@ const projects = [
     url: 'https://next-hotel-booking-frontend.vercel.app/',
   },
 	{
-    title: 'Worldwide Hotel Booking Website (Mern)',
+    title: 'AI Voice Chatbot Websie',
 		duration: 'Sep 2023 - Dec 2023',
     description:
-      ' The Worldwide Hotel Booking Website is designed to provide travelers with a holistic approach to planning their trips. By integrating hotel bookings with airport transfers, payment solutions, comprehensive hotel guides, and mapping features, this platform enhances user convenience and satisfaction. Leveraging modern web technologies ensures a robust, secure, and user-friendly experience for travelers worldwide. Comprehensive Hotel Booking, Airport Transfer Integration, Convenient booking of airport transfers directly through the platform. Secure Payment Processing, In-depth guides for each hotel, including nearby attractions, dining options, and activities. User-generated content and reviews to enhance the travel experience. Integrated maps for easy navigation to hotels and attractions. Location-based services to help users find nearby amenities. User Account Management,Easy registration and login process with personalized dashboards',
-    technologies: ['Reactjs', 'Stripe integration', 'Tailwincss', 'Node', 'SEO','API Integration','mapbox',],
-    imageUrl: '/images/agoda.jpg',
+      ' This app allows users to create, customize, and interact with their own AI character or companion in real-time, enabling natural and seamless conversations across mobile, web, and terminal platforms by leveraging advanced technologies like OpenAI GPT-3.5/4, Anthropic Claude-2, Chroma Vector DB for memory, Whisper for speech-to-text, and ElevenLabs for text-to-speech. It provides a unified codebase for an immersive, multi-platform experience where the AI companion can understand, remember, and respond contextually using state-of-the-art language models and voice processing tools.',
+    technologies: ['Next js', 'Chroma', 'Tailwincss', 'FastAPI', 'SQLite','API Integration','WebSockets',],
+    imageUrl: '/images/Health.png',
     imageAlt: 'Hotel Booking Website',
-    url: 'https://www.agoda.com',
+    url: 'https://realchar.ai/',
   },
 	
   // Add more project objects as needed
